@@ -6,7 +6,7 @@ You are asked to conduct an exploratory analysis of this dataset and to report y
 
 The following suggestions may inspire your investigations:
 
-- Why genes are associated with high-grade tumours?
+- Are any genes associated with high-grade tumours?
 - Can you identify any sub-groups of patients? Is there any sub-structure in the data?
 - Are there any patient samples which look unusual? What might you do about them?
 
