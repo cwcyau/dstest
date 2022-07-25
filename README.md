@@ -11,3 +11,11 @@ The following suggestions may inspire your investigations:
 - Are there any patient samples which look unusual? What might you do about them?
 
 You are not expected to spend more than 4 hours on this analysis.
+
+You will be asked to make a 15-minute presentation of your investigation at interview.
+
+Your presentation should describe:
+
+- your approach to tackling the problem
+- the techniques you used
+- the insights you made
